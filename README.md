@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on Webdev Techs in general<br><br>🤝 I’m looking to collaborate on AI-driven apps and webdev projects<br><br>👯 I’m looking for help with ML<br><br>🌱 I’m currently learning AI & DS<br><br>💬 Ask me about Python, JS or web frameworks
+# Hi, I'm Ashref 👋
+
+AI Engineering & Data Science student at ENSIA
+
+I build software and machine learning systems, with a particular interest in Machine Learning, NLP, Data Science, and AI-powered applications.
+
+Currently working on applied AI and software projects, while completing my 4th year at the École Nationale Supérieure d'Intelligence Artificielle (ENSIA).
+
+What I work with
+- Machine Learning & AI — supervised learning, deep learning, NLP, computer vision
+- Data — data analysis, feature engineering, predictive modeling
+- Software — Python, TypeScript, Next.js, Flask
+- Deployment — web applications, APIs, desktop applications
 
 
 ## 🌐 Socials:
